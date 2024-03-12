@@ -265,13 +265,18 @@ header {
     border: 1px solid blue;
 }
 
+.proyects h4{
+    color: var(--color2);
+    margin: 4% 2% 0%;
+}
+
 /* .proyects:hover{
     background-color: var(--girs3);
 } */
 
 .description-proyects{
     font-size: 11px;
-    margin: 8% 2%;
+    margin: 2% 2%;
 }
 
 .show-proyects{
